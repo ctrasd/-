@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python3
-
+__author__='ctr'
 import urllib  
 import http.cookiejar
 #import urllib2  
